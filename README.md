@@ -1,12 +1,7 @@
 # Chat Online
-## Um chat web simples feito com a biblioteca Socket.IO
+### Um chat web simples feito com a biblioteca Socket.IO
 
-Como iniciar:<br>
-Estando na pasta do projeto, você pode executar qualquer um desses comandos:
-```sh 
-npm run start
-
-# Ou
-
-node server.js
-```
+Para iniciar localmente, abra o terminal na pasta do projeto e escreva os seguintes comandos:<br>
+- ```npm install```
+- ```npm run start```
+- Feito isto, é só abrir o http://localhost em seu navegador
